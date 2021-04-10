@@ -1,0 +1,15 @@
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,1.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0,0,0,1.75);
+    cursor :help;
+    border: none;
+}
+
+.card{
+    border: none;
+}
+
+body{
+    background-color: rgb(249, 249, 249);
+}
